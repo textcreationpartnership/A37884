@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Orders presented to His Majesty by advice of the Lords &amp; Commons of Parliament assembled at Oxford for the more indifferent rating and levying of monies to be raised by way of contribution and to prevent the disorders of the souldiers of His Majesties armies, and oppression of other his subjects.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37884</idno>
+            <idno type="STC">Wing E1760</idno>
+            <idno type="STC">ESTC R25255</idno>
+            <idno type="EEBO-CITATION">08821121</idno>
+            <idno type="OCLC">ocm 08821121</idno>
+            <idno type="VID">41907</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37884)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41907)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1259:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Orders presented to His Majesty by advice of the Lords &amp; Commons of Parliament assembled at Oxford for the more indifferent rating and levying of monies to be raised by way of contribution and to prevent the disorders of the souldiers of His Majesties armies, and oppression of other his subjects.</title>
+               </titleStmt>
+               <extent>9 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Leonard Lichfield,</publisher>
+                  <pubPlace>[Oxford?] :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Finance, Public --  Great Britain.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Finance.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:41907:1"/>
+            <!-- PDF PAGE 119 -->
+            <pb facs="tcp:41907:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 119 -->
+            <p>ORDERS PRESENTED TO HIS MAIESTY By advice of the <hi>LORDS &amp; COMMONS</hi> OF PARLIAMENT Aſſembled at OXFORD, FOR The more indifferent rating and levy<g ref="char:EOLhyphen"/>ing of monies to be raiſed by way of Contribution, and to prevent the diſorders of the Souldiers of His <hi>Majesties</hi> Armies, and <hi>Op<g ref="char:EOLhyphen"/>preſsion of other His Subjects.</hi>
+            </p>
+            <p>Printed by His <hi>Majeſties</hi> Command, at the Deſire <hi>of the Lords and Commons of Parliament Aſſembled at</hi> Oxford.</p>
+            <p>BY LEONARD LICHFIELD, Printer to the Univerſitie. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:41907:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 120 -->
+            <pb n="1" facs="tcp:41907:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 120 -->
+            <head>ORDERS PRESENTED TO HIS MAIESTIE, By advice of the LORDS and COMMONS of Parliament Aſſembled at <hi>Oxford.</hi>
+            </head>
+            <p n="1">1 THat ſuch ſummes of mony as are, or ſhall be, agreed to be charged or ſet upon any County or City, ſhall by the Commiſſi<g ref="char:EOLhyphen"/>oners appoynted for thoſe Contributi<g ref="char:EOLhyphen"/>ons, or greater number of them, be divi<g ref="char:EOLhyphen"/>ded and diſtributed into ſeverall proportions upon each reſpective Hundred or Liberty of the ſaid ſeverall Coun<g ref="char:EOLhyphen"/>ties, and upon each reſpective Pariſh, or Ward of thoſe Cities; according to the Rates uſed, and accuſtomed for Collection of monyes for publique uſes in the ſame Counties and Cities.</p>
+            <p n="2">2 That after any certaine ſumme ſhall be charged, and ſet upon any Hundred, as aforeſaid, the ſame ſhall be diſtri<g ref="char:EOLhyphen"/>buted by the Conſtables, or Conſtable of the Hundred, into ſeverall proportions, upon each reſpective Towne,
+<pb n="2" facs="tcp:41907:3"/>
+               <!-- PDF PAGE 121 -->pariſh or place within the ſame Hundred, according to the uſuall and accuſtomed Rates for Taxations.</p>
+            <p n="3">3 That after the ſummes ſhall be ſet upon any Town, Liberty, Pariſh or Place, the ſame ſhall at ſome generall meeting to be appointed by the Conſtables or Conſtable of the Town, Pariſh or Place, be ſubdivided and char<g ref="char:EOLhyphen"/>ged by the Inhabitants of the place, or greater number of them. upon every Inhabitant, Parſon or Vicar, and others upon every occupier of Meſſuages, Lands, Tenements, Tithes, Rent, Annuities, and other Hereditaments in the ſaid pariſh or place, according to the uſuall and accuſto<g ref="char:EOLhyphen"/>med Rates in their payments for publique uſes.</p>
+            <p n="4">4 That if any perſon or perſons within any Hundred, Town, pariſh or place, ſhall finde him or themſelves greiv<g ref="char:EOLhyphen"/>ed by the ſaid rates, and ſhall complain thereof to any of the ſaid Commiſſioners, every ſuch complaint ſhall be heard and ordered by any three or more of the next Com<g ref="char:EOLhyphen"/>miſſioners. But if the difference happen to be between ſe<g ref="char:EOLhyphen"/>verall Hundreds, Townes, Pariſhes, or places, or if any perſon or perſons within the ſaid Hundreds, Townes, Pa<g ref="char:EOLhyphen"/>riſhes or places, reſt unſatisfied with the Commiſſioners Orders, upon their former Complaint in both thoſe caſes, the differences ſhall be heard and ordered at ſome gene<g ref="char:EOLhyphen"/>rall meeting by the ſaid Commiſſioners, or greater num<g ref="char:EOLhyphen"/>ber of them, and not otherwiſe: with this, that no alterati<g ref="char:EOLhyphen"/>on or abatement ſhall be made of any Rate or Tax, untill after the perſon or perſons complaining have yeelded o<g ref="char:EOLhyphen"/>bedience thereunto, and have paid the Tax Impoſed on them, nor unleſſe the Complainants give timely notice unto thoſe who made the former Rates, or ſome of them, or thoſe that ſhall be chiefly concerned therein of the time when they intended to complain, &amp; to have the differences examined, to the end the other party or parties may attend (if they pleaſe) &amp; be provided for a defence, &amp; ſo the diffe<g ref="char:EOLhyphen"/>rences
+<pb n="3" facs="tcp:41907:3"/>
+               <!-- PDF PAGE 121 -->fully and indifferently heard and ended with the leaſt trouble and diſquiet to all parties.</p>
+            <p n="5">5 That the ſaid Commiſſioners ſhall divide themſelves into ſeverall companies, and ſo provide, that three or more of them may once every week meet within each Diviſion of the County, to hear and Order the differences ariſing in any Hundred, Town, Pariſh, or place, and the Commiſſio<g ref="char:EOLhyphen"/>ners for Cities ſhall alſo weekly meet at ſome convenient place, to hear &amp; order the differences there ariſing; &amp; there ſhall be a generall meeting once a month at leaſt, of all the ſaid Commiſſioners to heart the more publike grievances, &amp; fro<g ref="char:cmbAbbrStroke">̄</g> time to time, at every of thoſe generall meetings, the time of the next meeting ſhall be appointed and publiſhed.</p>
+            <p n="6">6 That the Rates and Aſſeſſments to be made in each reſpective Hundred, Town, Pariſh and place ſhall be done within ſix daies next after the Conſtables or Conſtable of that place ſhal receive order for the doing thereof, &amp; with<g ref="char:EOLhyphen"/>in 3 daies after the making thereof, the Co<g ref="char:cmbAbbrStroke">̄</g>ſtables, or Con<g ref="char:EOLhyphen"/>ſtable of the Hundred, Town, Pariſh or place ſhall deliver two ſchedules in writings of the reſpective Taxations and Rates, one of them to the ſaid next Commiſſioners, &amp; the other to the Collector or Collectors of the ſame Rates, (who ſhall from time to time be nominated, and appointed by the ſaid Commiſſioners,) &amp; the ſaid Collector or Col<g ref="char:EOLhyphen"/>lectors, ſhall within ſix daies after the delivery of the ſaid ſchedule unto him or them, collect and pay over the ſame Moneys to the Treaſurers or Treaſurer of that County or City, to be approved of by the ſaid Commiſſioners.</p>
+            <p n="7">7 That ſuch part of the ſeverall Contributions ſhall be paid in Money, and ſuch part thereof in proviſions for Men and Horſes, as any three or more of the ſaid Commiſſioners of that County, Diviſion, or City, where the ſame Contribution is to be paid ſhall thinke fit, and for the Rates and Prices of thoſe Proviſions
+<pb n="4" facs="tcp:41907:4"/>
+               <!-- PDF PAGE 122 -->ſpeciall regard is to be had by the ſaid Commiſſioners, to the preſent Rates and Valuations of them in thoſe reſpe<g ref="char:EOLhyphen"/>ctive Counties, Diviſions and Cities, where for the time being they are to be provided.</p>
+            <p n="8">8 That all the Proviſions to be delivered according to the next precedent Article, ſhall be delivered at ſome convenient places, to be agreed upon betweene the Com<g ref="char:EOLhyphen"/>miſſioners, and the Commiſſary of the Army, Garriſons, or Regiments, and ſhall be delivered unto the hands of the reſpective Collectors, or Commiſſaries, to be appoynted for that purpoſe, &amp; books ſhall be kept by the Collectors, and Commiſſaries, wherein ſhall be ſet downe what ſhall be paid in money, and what, and how much in proviſi<g ref="char:EOLhyphen"/>on.</p>
+            <p n="9">9 That if any Hundred, Town, Pariſh, or particular perſon, ſhall make default in payment, and it appeare to the Conſtable of the place, that the default is made through poverty and inability; then the Conſtable is forthwith to acquaint the Pariſhioners thereof, to the end that part, or all his or their Rates, as the caſe ſhall require, be laid upon the reſt of the Pariſh, which if they refuſe to doe, the party greived may complaine thereof to ſome of the ſaid Commiſſioners, &amp; any three, or more of them, are to heare and order the ſame: But if the default be made through ſtubborneſſe or neglect, then the Collector with the Conſtables, or Conſtable, and ſuch a convenient number of Souldiers, as three or more of the ſaid Com<g ref="char:EOLhyphen"/>miſſioners ſhall appoint, ſhall Levy a double Rate upon the defaulter, one part of fouer whereof ſhall be allowed the Souldiers for their paines, two parts ſhall ſatisfie the Rate, and the other fourth part ſhall goe for the eaſe and
+<pb n="5" facs="tcp:41907:4"/>
+               <!-- PDF PAGE 122 -->benefit of the reſt of the Pariſh for their encouragement.</p>
+            <p n="10">10 That the Collectors of the ſaid monyes and pro<g ref="char:EOLhyphen"/>viſions, pay and deliver the ſame over to the Treaſurers of each reſpective County or City, where there are Trea<g ref="char:EOLhyphen"/>ſurers appointed, and where there are none, to ſuch as the Commiſſioners ſhall appoint, and the ſaid Treaſurers ſhall pay and deliver the ſame, to ſuch Officers or Souldiers of the Armies, Garriſons, or Regiments, as ſhall be appointed by the Commander in chiefe, and any three or more of the ſaid Commiſſioners, to receive and diſtribute the ſame un<g ref="char:EOLhyphen"/>to, and amongſt the Souldiers, and the Souldiers ſhall not intermeddle with the Collection thereof, but in caſes of default, as before is expreſſed.</p>
+            <p n="11">11 That the Saturday, which ſhall be next after the publiſhing of theſe Inſtructions in any Pariſh-Church, Chappell, or Market-Towne, every Perſon that Billets any Souldiers within that Towne or Pariſh, ſhall bring to the Conſtable or Tything-man, a lift of the names of all ſuch Officers, and Souldiers as are Billeted in his houſe, with what is due to him for Billet, and entertain<g ref="char:EOLhyphen"/>ment of them, who ſhall forth with deliver the ſame over to the Collector of the Contributions, and he ſhall deliver it over to the Treaſurer or Receiver, and ſo from week to week, to the end the Billet-money, may from time to time be more ſurely paid, the debt being manifeſt to the Treaſurer.</p>
+            <p n="12">12 That the Officers and Souldiers ſhall from time to time weekly, ſatisfie their Hoſts for their Dyets, and entertainment, according to the proportions hereafter ex<g ref="char:EOLhyphen"/>preſſed, <hi>viz.</hi> Captains and ſuperiour Officers ten ſhillings a week, Lievtenants and Cornets, ſeven ſhillings a week,
+<pb n="6" facs="tcp:41907:5"/>
+               <!-- PDF PAGE 123 -->other inferiour Officers and Troopers, 3<hi rend="sup">ſ</hi> 6<hi rend="sup">d</hi> 
+               <hi>per</hi> week, Foot Souldiers and Pyoners, 2<hi rend="sup">ſ</hi> 6<hi rend="sup">d</hi> 
+               <hi>per</hi> week, and ſhall reſt themſelves contented with diet and entertainment fit and reaſonable for ſuch allowance, and behave themſelves or<g ref="char:EOLhyphen"/>derly in the places where they are Quartered, without of<g ref="char:EOLhyphen"/>fence, by curſing, Swearing or other misbehaviour, &amp; ſhall alſo make ſatisfaction for ſuch other things as they ſhall make uſe of for their Horſes, at ſuch rates and prizes as for the time ſhall be ſet down &amp; agreed by any three or more of the ſaid Commiſſioners; and if any of them ſhall fail to make ſatisfaction as aforeſaid, the Treaſurer or Receiver of the County, Diviſion or City, where ſuch default ſhall be, upon Warrant unto him under the hands of any three or more of the ſaid Commiſſioners, expreſſing what is to be paid, ſhall make full ſatisfaction for the ſame, out of the Moneys which he hath or ſhall then next receive for Con<g ref="char:EOLhyphen"/>tribution: and to that purpoſe ſhall and may retain and keep in his hands and cuſtody ſo much money, as from time to time will ſatisfie the Billet, and entertainment for Souldi<g ref="char:EOLhyphen"/>ers and Horſes, as aforeſaid.</p>
+            <p n="13">13 That no manner of free Quarter or Billeting ſhall be taken by, or for any Horſe or Foot Souldiers, where the Countrey or City is in Contribution, nor any Tax, Charge, or Impoſition of Money, or proviſion whatſoe<g ref="char:EOLhyphen"/>ver (over and above the Contribution) ſhall be laid upon or required by any Co<g ref="char:cmbAbbrStroke">̄</g>mander, Officer, Souldier or other, from any perſon of that County, or City, without preſent payment for the ſame in Money, or as they ſhall agree by conſent, except only for houſe-roome according to the quality of the perſon Billeted, and of the perſon in whoſe houſe he or they are to be billeted, and except for fire and
+<pb n="7" facs="tcp:41907:5"/>
+               <!-- PDF PAGE 123 -->Candle, ſuch as the Maſter, Miſtreſſe or Dame uſe for themſelves and their own Family: And no Commander in chiefe or other Officer whatſoever of any his Majeſties Armyes, ſhall ſend forth any Warrant or Warrants, for the raiſing of Money, Horſes, or Proviſions, otherwiſe then is expreſſed in theſe Articles; And no Conſtable, Ty<g ref="char:EOLhyphen"/>thing-man, or other Officer, ſhall execute or diſperſe any Warrant which is not agreeable to theſe inſtructions.</p>
+            <p n="14">14 That no Quarter-maſter, or other Officer, or per<g ref="char:EOLhyphen"/>ſon whatſoever, ſhall Quarter any Officer or Souldier without Warrant, not without the aſſiſtance and conſent or the Major, Bayliffe, Conſtable, or other Officer of the place, and ſhall give a Copy of the Warrant, and a note of the number he is to Billet, under his hand, unto the ſaid Major, Bayliffe, Conſtable, or other Officer, if it be deſi<g ref="char:EOLhyphen"/>red: And no Commander, Officer, or Souldier of His Ma<g ref="char:EOLhyphen"/>jeſties Armies, ſhall be Quartered or Billited in the dwel<g ref="char:EOLhyphen"/>ling houſe of any the Treaſurers, Receivers, or Colle<g ref="char:EOLhyphen"/>ctors of the Contribution-mony.</p>
+            <p n="15">15 That no Women, Boyes, or Children, following the Army, be admitted from henceforth to have houſe-roome in the Counties under Contribution, unleſſe it be by Conſent or Compoſition with the conſent of the ow<g ref="char:EOLhyphen"/>ner of the houſe for the ſame.</p>
+            <p n="16">16 That if any Horſe or Teemes of Horſes, or Oxen, be impreſſed or taken hp for His Majeſties ſpeciall Ser<g ref="char:EOLhyphen"/>vice, They ſhall not be imployed for more then for one day (unleſſe great neceſſity ſhall otherwiſe enforce) and ſatisfaction ſhall be made for every Horſe, Teem of Hor<g ref="char:EOLhyphen"/>ſes and Oxen ſo imployed, according to the proportion hereafter expreſſed, <hi>(viz)</hi> for one ſingle Horſe after the
+<pb n="8" facs="tcp:41907:6"/>
+               <!-- PDF PAGE 124 -->Rate of 2<hi rend="sup">d</hi> the Mile, and after that proportion for as many Horſes as there ſhall be, and one penny halfe penny a mile for every Oxe, the ſame to be paid by the party that brings the Warrant for the doing thereof, a copy of which Warrant ſhall be left with the Officer of the place, if it be deſired, and in his default, to be ſatisfied by the Treaſurer or Receiver of the Contribution-money of the County or place, as before is expreſſed.</p>
+            <p n="17">17 That if any loſſe or dammage ſhall be done to any perſon or perſons, in their Horſes or other Cattell, or in any their proviſions or other goods, by any the Kings Of<g ref="char:EOLhyphen"/>ficers or Souldiers, either Horſe or Foot, ſuch loſſe or dammage, upon proofe thereof before any three or more of the ſaid Commiſſioners, ſhall be repaid and recompen<g ref="char:EOLhyphen"/>ced to the party ſuffering, by the Treaſurer or Receiver of the weekly contributions of that place, upon Warrant for the ſame under the hands of three or more of the ſaid Com<g ref="char:EOLhyphen"/>miſſioners who took the proofe.</p>
+            <p n="18">18 That if any Theft, Robbery, or other offence be done or committed againſt any of the Kings Subjects by any Officer, Souldier, or other Perſon of or belonging to any his Majeſties Armies, the Party ſuffering ſhall and may have and take his Remedie againſt ſuch Offendor or Offendors by Indictment or Action according to the courſe of the Common-Law. And for the better Execu<g ref="char:EOLhyphen"/>tion thereof, all Sheriffes, Juſtices of Peace, Majors, Bailiffes, Conſtables, and other His Majeſties Officers and Miniſters, ſhall from time to time be <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iding and aſſiſting unto the Party grieved, as the caſe ſhall require. And no Commander or Officer whatſoever ſhall preſume to pro<g ref="char:EOLhyphen"/>tect any ſuch Offendor from a Legall proſecution as afore<g ref="char:EOLhyphen"/>ſaid.</p>
+            <p n="19">
+               <pb n="9" facs="tcp:41907:6"/>
+               <!-- PDF PAGE 124 -->
+19 That His Majeſty be moved that he would be plea<g ref="char:EOLhyphen"/>ſed by His Royall Proclamation to Command, That theſe Orders be ſtrictly obſerved by all Perſons whatſoever, and duly put in execution.</p>
+            <p n="20">20 That theſe Orders be entred by every the Clerks of the Councell of Warre of His Majeſties Armies, to the end every Commander, Officer, and Souldier may the better know and performe the ſame.</p>
+            <p n="21">21 That theſe Orders be Printed and Publiſhed in e<g ref="char:EOLhyphen"/>very Market, Faire, Church and Chappell within this Kingdome of <hi>England</hi> and Dominion of <hi>Wales.</hi> And one Book of theſe Orders be kept in every Pariſh with the Pa<g ref="char:EOLhyphen"/>riſh-Accompts, that every man may reſort thereunto, when and ſo often as there ſhall be occaſion.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
